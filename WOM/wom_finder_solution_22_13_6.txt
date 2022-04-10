@@ -1,0 +1,8 @@
+# WOM_finder solution for a <22,13>/6 code
+#
+# Sum rate = 1.359979
+# The 64 symbols listed below are mapped to code words that are the binary representation of the 0-based index in the table.
+
+  15,  20,   7,   4,  13,   3,  10,   6,   2,   6,  11,   3,  21,  11,   8,   5,  16,  18,  17,   7,   8,   5,   9,   2,  19,   9,   9,  10,   3,   4,   1,   0,
+   1,   0,  14,   1,   5,   8,   3,   4,  12,   1,   0,   2,   3,  10,   7,   9,   9,   6,   5,   3,   0,   1,  10,  11,  11,   5,   4,   8,   2,   7,   6,  12
+# End of WOM_finder solution for a <22,13>/6 code

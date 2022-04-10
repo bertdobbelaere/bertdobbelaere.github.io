@@ -1,0 +1,7 @@
+# WOM_finder solution for a <14,7>/5 code
+#
+# Sum rate = 1.322942
+# The 32 symbols listed below are mapped to code words that are the binary representation of the 0-based index in the table.
+
+   9,   4,  13,  10,   7,   3,   3,   4,   8,  12,   6,   2,   6,   3,   1,   5,   0,   2,  11,   3,   1,   5,   5,   6,   5,   6,   4,   1,   3,   4,   2,   0
+# End of WOM_finder solution for a <14,7>/5 code
