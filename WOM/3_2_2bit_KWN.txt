@@ -1,0 +1,11 @@
+# Begin of <3,2>/2 WOM code with known write number
+Write 1:
+   0    00 
+   1    01 
+   2    10 
+Write 2:
+   0    01 10 
+   1    11 
+# End of <3,2>/2 WOM code with known write number
+# Rfixed = 1.000000
+# Rsum = 1.292481
